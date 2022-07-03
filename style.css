@@ -1,6 +1,65 @@
-.bangladesh
+.Histry
+{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+div
+{
+    border: 15px solid black;
+    border-radius: 15px;
+    margin: 100px 200px auto;
+    padding: 50px;
+}
+.Bangladesh
+{
+    color: coral;background-color: rgb(39, 113, 113);
+    text-align: justify;
+    
+  
+}
+.Bangladesh1
+{
+    color: rgb(57, 251, 202); font-size: 20px;
+}
+.Bangladesh2
+{
+    text-align: center;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+}
+.India
+{
+    color: rgb(108, 108, 216);background-color: rgb(39, 113, 113);
+    text-align: justify;
+    
+}
+.India1
+{
+    color: rgb(153, 252, 255); font-size: 20px;
+}
+.India2
+{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.Pakistan
+{
+    color: aqua;background-color: rgb(39, 113, 113);
+    text-align: justify;
+
+}
+.Pakistan1
+{
+    color: rgb(162, 255, 162);
+    font-size: 20px;
+}
+.Pakistan2
+{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Bangladesh p
 {
     color: aqua;
-    background-color: black;
-    font-size: large;
 }
